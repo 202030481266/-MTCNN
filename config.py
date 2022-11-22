@@ -11,11 +11,11 @@ LOG_DIR = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))+"/log"
 
 USE_CUDA = True
 
-TRAIN_BATCH_SIZE = 512
+TRAIN_BATCH_SIZE = 128
 
 TRAIN_LR = 0.01
 
-END_EPOCH = 10
+END_EPOCH = 1
 
 
 PNET_POSTIVE_ANNO_FILENAME = "pos_12.txt"
