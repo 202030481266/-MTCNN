@@ -1,4 +1,5 @@
 import sys
+sys.path.append('./')
 sys.path.append('/kaggle/working/-MTCNN')
 
 import os
