@@ -1,0 +1,2 @@
+annotations/imglist_anno_12.txt
+ filter=lfs diff=lfs merge=lfs -text
